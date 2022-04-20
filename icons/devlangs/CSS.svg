@@ -2,8 +2,8 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 <svg version="1.1" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
  <defs>
-  <mask id="mask12324" maskUnits="userSpaceOnUse">
-   <path d="m144.75 177.04 4.0254 45.385 132.58 0.46485-78.137 45.281c1.3029 14.692 2.6066 29.384 3.9102 44.076h102.94l-4.2969 56.703-49.049 13.646-49.049-13.646-3.3418-35.652h-45.713l6.2988 70.994 91.094 25.346 91.094-25.346c4.0259-45.374 8.0511-90.747 12.076-136.12h-73.854l77.859-45.15 4.0781-45.98h-111.25z" fill="#fff" stroke-width=".41942" style="font-variation-settings:'wght' 800"/>
+  <mask id="mask2224" maskUnits="userSpaceOnUse">
+   <path d="m144.75 177.04 4.0254 45.385 132.58 0.46485-78.137 45.281c1.3029 14.692 2.6066 29.384 3.9102 44.076l102.31 0.0195-4.3147 56.688-49.119 13.642-48.97-13.647-2.7097-35.652h-45.713l6.2988 70.994 91.094 25.346 91.094-25.346c4.0259-45.374 8.0511-90.747 12.076-136.12h-73.854l77.918-45.742 4.02-45.389h-111.25z" fill="#fff" stroke-width=".41942" style="font-variation-settings:'wght' 800"/>
   </mask>
  </defs>
  <g>
@@ -11,9 +11,9 @@
   <path d="m402.98 131.07h-146.98v350.27l120.35-35.146z" fill="#33a9dc" stroke-width=".5677" style="font-variation-settings:'wght' 800;mix-blend-mode:normal"/>
  </g>
  <g>
-  <g transform="matrix(1.0282 0 0 1.0282 -7.2183 -7.2083)" mask="url(#mask12324)">
+  <g transform="matrix(1.0282 0 0 1.0282 -7.2183 -7.2083)" mask="url(#mask2224)">
+   <rect transform="scale(-1,1)" x="-379.16" y="157.82" width="246.31" height="291.04" fill="#e6e6e6" stroke-width="1.4064" style="font-variation-settings:'wght' 800"/>
    <rect x="256" y="157.82" width="124.52" height="291.04" fill="#fff" style="font-variation-settings:'wght' 800"/>
-   <rect transform="scale(-1,1)" x="-256" y="157.82" width="123.16" height="291.04" fill="#e6e6e6" stroke-width=".9945" style="font-variation-settings:'wght' 800"/>
   </g>
  </g>
  <g>

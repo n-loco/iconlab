@@ -12,13 +12,13 @@
  </g>
  <g>
   <g transform="matrix(1.0282 0 0 1.0282 -7.2183 -7.2083)" mask="url(#mask17528)">
+   <rect transform="scale(-1,1)" x="-379.16" y="157.82" width="246.31" height="291.04" fill="#e6e6e6" stroke-width="1.4064" style="font-variation-settings:'wght' 800"/>
    <rect x="256" y="157.82" width="124.52" height="291.04" fill="#fff" style="font-variation-settings:'wght' 800"/>
-   <rect transform="scale(-1,1)" x="-256" y="157.82" width="123.16" height="291.04" fill="#e6e6e6" stroke-width=".9945" style="font-variation-settings:'wght' 800"/>
   </g>
  </g>
  <g>
   <path d="m108.2 0v68.879h23.062v-22.907h21.321v22.907h23.062v-68.879h-23.062v22.91h-21.321v-22.91z" stroke-width="1.0589" style="font-variation-settings:'wght' 800"/>
-  <path d="m185.51 0.16467v23.062h20.391v45.652h23.062v-45.652h20.393v-23.062z" stroke-width="1.0297" style="font-variation-settings:'wght' 800"/>
+  <path d="m185.51 0v23.062h20.391v45.652h23.062v-45.652h20.393v-23.062z" stroke-width="1.0297" style="font-variation-settings:'wght' 800"/>
   <path d="m259.32 0v68.879h23.062v-32.673l16.072 23.243 16.072-23.243v32.673h23.062v-68.879h-23.062l-16.072 23.245-16.072-23.245z" stroke-width="1.0589" style="font-variation-settings:'wght' 800"/>
   <path d="m348.8 0v68.879h55.715v-23.062h-32.653v-45.817z" stroke-width="1.0589" style="font-variation-settings:'wght' 800"/>
  </g>

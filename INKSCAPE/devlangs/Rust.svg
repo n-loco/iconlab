@@ -2,6 +2,7 @@
 <svg
    height="512"
    width="512"
+   viewBox="0 0 512 512"
    version="1.1"
    id="svg6"
    sodipodi:docname="Rust.svg"
@@ -28,24 +29,15 @@
      inkscape:snap-bbox-edge-midpoints="true"
      inkscape:snap-bbox-midpoints="true"
      inkscape:snap-object-midpoints="true"
-     inkscape:zoom="1.0299698"
-     inkscape:cx="215.54031"
-     inkscape:cy="271.85264"
+     inkscape:zoom="1.4565973"
+     inkscape:cx="246.8081"
+     inkscape:cy="250.58402"
      inkscape:window-width="1920"
      inkscape:window-height="1011"
      inkscape:window-x="0"
      inkscape:window-y="32"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer2" />
-  <g
-     inkscape:groupmode="layer"
-     id="layer2"
-     inkscape:label="Background">
-    <path
-       id="path2543"
-       style="font-variation-settings:'wght' 800;fill:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round"
-       d="M 472.69109,256 A 216.69109,216.69109 0 0 1 256,472.69109 216.69109,216.69109 0 0 1 39.308914,256 216.69109,216.69109 0 0 1 256,39.308914 216.69109,216.69109 0 0 1 472.69109,256 Z" />
-  </g>
+     inkscape:current-layer="layer1" />
   <g
      inkscape:groupmode="layer"
      id="layer1"

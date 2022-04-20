@@ -33,15 +33,15 @@
      inkscape:snap-others="false"
      inkscape:snap-grids="true"
      inkscape:object-nodes="true"
-     inkscape:zoom="0.81933594"
-     inkscape:cx="159.27533"
-     inkscape:cy="301.46365"
+     inkscape:zoom="1"
+     inkscape:cx="203"
+     inkscape:cy="300"
      inkscape:window-width="1920"
      inkscape:window-height="1011"
      inkscape:window-x="0"
      inkscape:window-y="32"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer3"
      showguides="false" />
   <defs
      id="defs2">
@@ -109,14 +109,6 @@
        oposite_fuse="false"
        split_items="false"
        split_open="false" />
-    <mask
-       maskUnits="userSpaceOnUse"
-       id="mask12324">
-      <path
-         id="path12326"
-         style="font-variation-settings:'wght' 800;display:inline;fill:#ffffff;fill-opacity:1;stroke-width:0.419425"
-         d="m 144.74609,177.04297 4.02539,45.38476 132.57618,0.46485 -78.13672,45.28125 c 1.3029,14.6921 2.60662,29.38413 3.91015,44.07617 h 102.93555 l -4.29687,56.70312 -49.04883,13.64649 -49.04883,-13.64649 -3.3418,-35.65234 h -45.71289 l 6.29883,70.99414 91.09375,25.3457 91.09375,-25.3457 c 4.02587,-45.37365 8.05111,-90.74736 12.07617,-136.12109 h -44.65625 -29.19726 l 77.85937,-45.15039 4.07813,-45.98047 H 256 Z" />
-    </mask>
     <inkscape:path-effect
        effect="mirror_symmetry"
        start_point="255.99999,105.11946"
@@ -190,6 +182,88 @@
          d="M 144.74609,177.04297 156.74023,312.25 c 51.41024,0 99.24743,0 152.67579,0 l -4.29688,56.70312 -49.04883,13.64649 -49.04883,-13.64649 -2.70117,-35.65234 h -45.71289 l 6.29883,70.99414 91.09375,25.3457 91.09375,-25.3457 12.07617,-136.12109 H 198.12695 l -4.06054,-45.15039 169.16211,-0.59571 4.02539,-45.38476 H 256 Z"
          sodipodi:nodetypes="cccccccccccccccccc" />
     </mask>
+    <inkscape:path-effect
+       effect="mirror_symmetry"
+       start_point="255.99999,105.11946"
+       end_point="255.99999,504.97845"
+       center_point="255.99999,305.04895"
+       id="path-effect11369-7"
+       is_visible="true"
+       lpeversion="1.1"
+       mode="free"
+       discard_orig_path="false"
+       fuse_paths="false"
+       oposite_fuse="false"
+       split_items="false"
+       split_open="false" />
+    <inkscape:path-effect
+       effect="mirror_symmetry"
+       start_point="255.99999,105.11946"
+       end_point="255.99999,504.97845"
+       center_point="255.99999,305.04895"
+       id="path-effect11344-36"
+       is_visible="true"
+       lpeversion="1.1"
+       mode="free"
+       discard_orig_path="false"
+       fuse_paths="false"
+       oposite_fuse="false"
+       split_items="false"
+       split_open="false" />
+    <inkscape:path-effect
+       effect="mirror_symmetry"
+       start_point="255.99999,105.11946"
+       end_point="255.99999,504.97845"
+       center_point="255.99999,305.04895"
+       id="path-effect7072-5"
+       is_visible="true"
+       lpeversion="1.1"
+       mode="free"
+       discard_orig_path="false"
+       fuse_paths="false"
+       oposite_fuse="false"
+       split_items="false"
+       split_open="false" />
+    <inkscape:path-effect
+       effect="fill_between_many"
+       method="originald"
+       linkedpaths="#rect859,0,1|"
+       id="path-effect1023-6"
+       join="true"
+       close="true"
+       autoreverse="true" />
+    <inkscape:path-effect
+       effect="mirror_symmetry"
+       start_point="255.99999,105.11946"
+       end_point="255.99999,504.97845"
+       center_point="255.99999,305.04895"
+       id="path-effect7072-3-3"
+       is_visible="true"
+       lpeversion="1.1"
+       mode="free"
+       discard_orig_path="false"
+       fuse_paths="false"
+       oposite_fuse="false"
+       split_items="false"
+       split_open="false" />
+    <mask
+       maskUnits="userSpaceOnUse"
+       id="mask17528-9">
+      <path
+         id="path17530-4"
+         style="font-variation-settings:'wght' 800;display:inline;fill:#ffffff;fill-opacity:1;stroke-width:0.419425"
+         d="M 144.74609,177.04297 156.74023,312.25 c 51.41024,0 99.24743,0 152.67579,0 l -4.29688,56.70312 -49.04883,13.64649 -49.04883,-13.64649 -2.70117,-35.65234 h -45.71289 l 6.29883,70.99414 91.09375,25.3457 91.09375,-25.3457 12.07617,-136.12109 H 198.12695 l -4.06054,-45.15039 169.16211,-0.59571 4.02539,-45.38476 H 256 Z"
+         sodipodi:nodetypes="cccccccccccccccccc" />
+    </mask>
+    <mask
+       maskUnits="userSpaceOnUse"
+       id="mask2224">
+      <path
+         id="path2226"
+         style="font-variation-settings:'wght' 800;display:inline;fill:#ffffff;fill-opacity:1;stroke-width:0.419425"
+         d="m 144.74609,177.04297 4.02539,45.38476 132.57618,0.46485 -78.13672,45.28125 c 1.3029,14.6921 2.60662,29.38413 3.91015,44.07617 l 102.31288,0.0195 -4.31466,56.68828 -49.1193,13.64174 -48.97,-13.647 -2.7097,-35.65183 h -45.71289 l 6.29883,70.99415 L 256,429.64058 347.09375,404.29489 c 4.02587,-45.37366 8.05111,-90.74737 12.07617,-136.1211 h -44.65625 -29.19726 l 77.91754,-45.74161 4.01996,-45.38925 H 256 Z"
+         sodipodi:nodetypes="ccccccccccccccccccccc" />
+    </mask>
   </defs>
   <g
      inkscape:groupmode="layer"
@@ -217,24 +291,24 @@
      style="display:inline;opacity:1">
     <g
        id="g17526"
-       mask="url(#mask12324)"
+       mask="url(#mask2224)"
        style="display:inline"
-       transform="matrix(1.0281966,0,0,1.0281966,-7.2183413,-7.2083065)">
+       transform="matrix(1.0281966,0,0,1.0281966,-7.2183392,-7.2083065)">
       <rect
-         style="font-variation-settings:'wght' 800;fill:#ffffff;fill-opacity:1"
+         style="font-variation-settings:'wght' 800;fill:#e6e6e6;fill-opacity:1;stroke-width:1.40643"
+         id="rect17486"
+         width="246.31198"
+         height="291.04248"
+         x="-379.15601"
+         y="157.82056"
+         transform="scale(-1,1)" />
+      <rect
+         style="font-variation-settings:'wght' 800;display:inline;fill:#ffffff;fill-opacity:1"
          id="rect17404"
          width="124.5225"
          height="291.04248"
          x="256"
          y="157.82056" />
-      <rect
-         style="font-variation-settings:'wght' 800;fill:#e6e6e6;fill-opacity:1;stroke-width:0.994498"
-         id="rect17486"
-         width="123.15599"
-         height="291.04248"
-         x="-256"
-         y="157.82056"
-         transform="scale(-1,1)" />
     </g>
   </g>
   <g

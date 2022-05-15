@@ -32,8 +32,8 @@
      inkscape:bbox-paths="true"
      inkscape:snap-object-midpoints="true"
      inkscape:zoom="1.4142136"
-     inkscape:cx="286.37824"
-     inkscape:cy="278.60006"
+     inkscape:cx="284.25692"
+     inkscape:cy="224.85995"
      inkscape:window-width="1920"
      inkscape:window-height="1011"
      inkscape:window-x="0"
@@ -108,21 +108,21 @@
        mask="url(#mask19989)"
        transform="matrix(1.024586,0,0,1.024586,-6.294017,-6.294017)">
       <path
-         style="fill:#9c033a;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="fill:#004482;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          d="M 34.2975,384.00001 255.99999,0 477.70251,383.99999 256.00001,512 Z"
          id="path11595"
          sodipodi:nodetypes="ccccc"
          mask="none"
          inkscape:label="gc3" />
       <path
-         style="display:inline;opacity:1;fill:#bf375f;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="display:inline;opacity:1;fill:#00599c;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          d="M 477.70251,383.99999 34.297493,128.00001 255.99999,0 477.7025,127.99999 Z"
          id="path4180"
          sodipodi:nodetypes="ccccc"
          mask="none"
          inkscape:label="gc2" />
       <path
-         style="display:inline;opacity:1;fill:#d26383;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="display:inline;opacity:1;fill:#659ad2;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          d="M 34.2975,384.00001 477.7025,127.99999 255.99999,0 34.297493,128.00001"
          id="path7919"
          mask="none"
